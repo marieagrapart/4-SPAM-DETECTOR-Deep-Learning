@@ -1,0 +1,14 @@
+tensorflow
+pathlib 
+pandas
+io
+warnings
+spacy
+numpy
+json
+plotly.graph_objects as go
+re
+matplotlib.pyplot as plt
+warnings
+sklearn.metrics
+seaborn
