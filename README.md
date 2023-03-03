@@ -9,7 +9,7 @@ It'a a student project with the following gloal :
 ## Prerequisites
 
 You will need : 
-- pip install requirement.txt 
+- pip install -r requirements.txt 
 - the dataset *spam.csv*
 
 ## Installing 
